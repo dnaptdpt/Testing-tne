@@ -5,7 +5,7 @@
 /* Variables */
 
 :root {
-  --theme-name: "Reborn";
+  --theme-name: "Chill";
   --blackout: black;
   --dark: #333;
   --lighter: #666;
@@ -495,7 +495,7 @@
         margin: 0px;
     }
     #app-mount .typeWindows-2-g3UY:after {
-        content: "Alexander_DNA v1  Custom By DNA";
+        content: "Chill Theme v1  Custom By DNA";
         color: rgb(255,255,255,0.5);
         font-weight: 500;
 
